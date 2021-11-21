@@ -4,7 +4,7 @@
 Example    
 
 영상에서 사용한 이미지     
-<img src="/images/ex.png" width="50%" height="50%">
+<img src="/images/ex.jpg" width="50%" height="50%">
 
 영상     
 <img src="/docs/ex.gif" width="50%" height="50%">

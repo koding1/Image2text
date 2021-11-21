@@ -20,7 +20,7 @@ def cap():
     while True:
         cv2.waitKey(50)
         if mouse.is_pressed("left"):
-            x1, y1 = pyautogui.position() # +키를 순간 마우스의 좌표 저장
+            x1, y1 = pyautogui.position() 
             cv2.circle(opencv_image, (x1, y1), 2, (0,0,255), -1)
 
             cv2.imshow('1', opencv_image)

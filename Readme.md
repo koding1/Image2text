@@ -7,4 +7,4 @@ Example
 <img src="/images/ex.jpg" width="50%" height="50%">
 
 영상     
-<img src="/docs/ex.gif" width="80%" height="80%">
+<img src="/docs/ex.gif" width="10%" height="100%">

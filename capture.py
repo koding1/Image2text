@@ -26,10 +26,9 @@ def cap():
             cv2.imshow('1', opencv_image)
             cv2.waitKey(1)
             
-            print("두 번째 지점에 마우스를 올려놓고 S를 눌려주세요.")
             time.sleep(0.1)
 
-            while True: # 3단계 while문
+            while True: 
                 
                 if mouse.is_pressed("left"):
 

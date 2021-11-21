@@ -1,0 +1,12 @@
+pip install pillow (8.4.0)
+pip install opencv-python (4.5.4.58)
+
+pip install pytesseract (0.3.8)
+tesseract-ocr-w64-setup-v5.0.0-rc1.20211030 - tesseract 다운로드
+
+pip install clipboard (0.0.4)
+pip install pyautogui (0.9.53)
+pip install keyboard (0.13.5)
+pip install mouse (0.7.1)
+
+

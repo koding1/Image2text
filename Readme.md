@@ -3,5 +3,8 @@
 
 Example    
 
-시연에 사용한 이미지
-![ex_image](./images/ex.jpg)
+영상에서 사용한 이미지     
+![ex_image](./images/ex.jpg){: width="50%" height="50%"}    
+
+영상     
+![ex_gif](./images/ex.gif){: width="50%" height="50%"} 

@@ -11,7 +11,7 @@ btn = tkinter.Button(win,
     background = "white")
 
 btn.config(width = 300, height = 200)
-btn.config(text = "capture")
+btn.config(text = "Capture")
 
 def CAPandOCR():
     cap.cap()
